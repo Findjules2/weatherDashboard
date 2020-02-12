@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: rgb(56, 48, 48);
+}
+
+.container {
+    margin: 0;
+}
+.col-4 {
+    background-color: gray;
+    color: white;
+}
+
+#citySearch {
+    background-color: blue;
+    color: white;
+}
